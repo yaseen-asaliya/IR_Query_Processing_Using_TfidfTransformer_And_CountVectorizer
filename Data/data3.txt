@@ -1,0 +1,2 @@
+The CountVectorizer library in scikit-learn can be used to tokenize text and create document-term matrices. It is important to consider various parameters like stop words
+and minimum document frequency for effective document representation in NLP, NLP,NLP.

@@ -1,0 +1,2 @@
+Information retrieval is a key aspect of natural language processing (NLP) and search engines. It involves finding relevant documents based on user queries.
+The TF-IDF and cosine similarity are common techniques used for ranking documents.

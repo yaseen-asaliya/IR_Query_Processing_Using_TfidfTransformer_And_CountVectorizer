@@ -1,0 +1,2 @@
+This is a sample document containing some text data. It's important to preprocess the text before processing it for information retrieval. 
+Text preprocessing may include lowercasing, removing stop words, and stemming NLP.
